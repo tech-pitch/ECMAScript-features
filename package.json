@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ECMAScript features with list of examples.",
   "main": "index.js",
-  "author": "Sudheer Jonna <sudheer.jonna@gmail.com>",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
